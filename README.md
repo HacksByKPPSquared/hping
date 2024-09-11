@@ -82,4 +82,4 @@ Understanding how to use **hping** to craft custom packets and perform reconnais
 ---
 
 Ready to explore the world of networks, one packet at a time? Let’s keep scanning, pinging, and learning! 🖥️🚀
-## 👉🏾[Lab Walkthrough]()
+## 👉🏾[Lab Walkthrough](https://github.com/Kpierre03/hping/blob/main/Reconnaissance.md)
