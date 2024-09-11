@@ -1,6 +1,6 @@
-**Lab 04: Reconnaissance with hping**
+# Reconnaissance with hping
 
-1 Using hping as an ICMP Utility
+## Using hping as an ICMP Utility
 
 1\. Click on the Kali tab.
 
@@ -61,25 +61,21 @@ style="width:8.94444in;height:0.91667in" />
 <img src="./media/image5.png"
 style="width:7.17822in;height:0.65792in" />
 
-> **5.** Change focus to the other terminal window and try the same scan
-> against the firewall by entering the command below.
+> 5\. Change focus to the other terminal window and try the same scan against the firewall by entering the command below.
 
 <img src="./media/image6.png" style="width:6.87129in;height:2.2864in"
 alt="A computer screen with white text Description automatically generated" />
 
-> **6.** Change focus to the terminal running tcpdump and notice a SYN
-> \[S\] flag was sent with a received Reset \[R\] flag.
+> 6\. Change focus to the terminal running tcpdump and notice a SYN \[S\] flag was sent with a received Reset \[R\] flag.
 > <img src="./media/image7.png"
 > style="width:10.31944in;height:0.90278in" />
 >
-> 7\. Change focus to the other terminal and enter the command below to
-> try a different port, SSH port 22, against the firewall.
+> 7\. Change focus to the other terminal and enter the command below to try a different port, SSH port 22, against the firewall.
 >
 > <img src="./media/image8.png" style="width:6.11881in;height:1.91963in"
 > alt="A computer screen with white text Description automatically generated" />
 
-8\. Initiate a port scan against the firewall, defining a range. Enter
-the command below.
+8\. Initiate a port scan against the firewall, defining a range. Enter the command below.
 
 > <img src="./media/image9.png" style="width:6.59748in;height:2.20792in"
 > alt="A computer screen with white text Description automatically generated" />
